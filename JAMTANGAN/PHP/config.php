@@ -1,0 +1,5 @@
+<?php
+// JANGAN UPLOAD FILE INI KE GITHUB
+define('MIDTRANS_SERVER_KEY', 'Mid-server-E2v38_EIu9J02vOM0IYEwSul');
+define('MIDTRANS_IS_PRODUCTION', false);
+?>
